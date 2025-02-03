@@ -9,8 +9,11 @@
 [class github](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
 
 ## image
-![cat](/assets/painting.jpg)
+![cat](/assets/parisSky.jpg)
 
 <!-- comment-->
-<img src="assets/painting.jpg" width = "20" alt="small painting">
+
+
+# what i'm using to learn python
+[W3](https://www.w3schools.com/python/default.asp)
 
